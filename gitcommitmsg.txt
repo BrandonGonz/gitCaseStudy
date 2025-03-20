@@ -1,7 +1,8 @@
 Short description of commit
+Feature-A:Team Member Eric
 
 Longer explanation of the motivation for the change
-
+Following the structure from EXAM:Case Study
 Fixes-Bug: Enter bug-id or delete line
 
 Implements-Requirement: Enter requirement-id or delete line
