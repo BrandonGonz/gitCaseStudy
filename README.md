@@ -1,8 +1,9 @@
 # gitCaseStudy
 
-# HEADER 1 Project Title
+# HEADER 1 Git Case Study
 
-> BLOCKQUOTE A short description about the project and/or client.
+> BLOCKQUOTE This project is about a client name Eric who's working
+> On Git case Study By cloning the Repo using Git in his Terminal and using Markdown Styling to Create templates
 
 ## HEADER 2 Getting Started
 
@@ -12,9 +13,9 @@ PARAGRAPH These instructions will get you a copy of the project up and running o
 
 PARAGRAPH The things you need before installing the software.
 
-- BULLET POINT You need this
-- BULLET POINT And you need this
-- BULLET POINT Oh, and don't forget this
+- GitHub Account
+- Created Github Repo
+- GIT
 
 ### HEADER 3 Installation
 
@@ -22,9 +23,9 @@ PARAGRAPH A step by step guide that will tell you how to get the development env
 
 ```
 {
-    $ First step
-    $ Another step
-    $ Final step
+    $ Copy Repo Link
+    $ Open Terminal choose or make a new directory
+    $ Git Clone [repo] and open in VSCODE
 }
 
 ```
@@ -35,9 +36,9 @@ A few examples of useful commands and/or tasks.
 
 ```
 {
-    $ First example
-    $ Second example
-    $ And keep this in mind
+    $ git add .
+    $ git commit -m "Your explained message"
+    $ git push origin [Branch]
 }
 ```
 
